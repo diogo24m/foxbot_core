@@ -1,7 +1,7 @@
 # foxbot
 Foxbot autonomous robot - Arduino
 
-Scripts and libraries running on Arduino Due
+Scripts and libraries running on Arduino Mega 2560
 
 1_ upload the script
 

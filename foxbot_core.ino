@@ -29,7 +29,6 @@ void setup()
 {
 	// serial
 	nh.getHardware()->setBaud(115200);
-	analogWriteResolution(12);
 
 	// ROS node initialization
 	nh.initNode();

@@ -22,9 +22,6 @@
 #ifndef FOXBOT_CORE_CONFIG_H_
 #define FOXBOT_CORE_CONFIG_H_
 
-// enable this line for Arduino Due
-#define USE_USBCON
-
 /* Include librairies */
 #include <ros.h>
 #include <ros/time.h>
